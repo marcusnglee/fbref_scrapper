@@ -1,0 +1,33 @@
+============================================================
+Player URL Extraction Summary
+============================================================
+
+Date: 2025-12-07 20:18:21
+CSV File: transfers_1.csv
+
+Total unique players in CSV: 2529
+Successfully matched: 2191 (86.6%)
+Not found: 338 (13.4%)
+
+Sample matched URLs (first 10):
+------------------------------------------------------------
+Aaron Cresswell
+  -> https://fbref.com/en/players/4f974391/Aaron-Cresswell-Stats
+Aaron Hickey
+  -> https://fbref.com/en/players/1780bb4a/Aaron-Hickey-Stats
+Aaron Lennon
+  -> https://fbref.com/en/players/2ff964a0/Aaron-Lennon-Stats
+Aaron Mooy
+  -> https://fbref.com/en/players/47b7e3af/Aaron-Mooy-Stats
+Aaron Ramsdale
+  -> https://fbref.com/en/players/466fb2c5/Aaron-Ramsdale-Stats
+Aaron Ramsey
+  -> https://fbref.com/en/players/e1618c22/Aaron-Ramsey-Stats
+Aaron Wan-Bissaka
+  -> https://fbref.com/en/players/9e525177/Aaron-Wan-Bissaka-Stats
+Aarón Anselmino
+  -> https://fbref.com/en/players/1d87670e/Aaron-Anselmino-Stats
+Abdallah Sima
+  -> https://fbref.com/en/players/fdbde523/Abdallah-Sima-Stats
+Abdelaziz Barrada
+  -> https://fbref.com/en/players/89dac314/Abdelaziz-Barrada-Stats
