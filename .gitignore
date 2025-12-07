@@ -43,7 +43,6 @@ htmlcov/
 .nox/
 
 # Scraped data files (customize as needed)
-*.csv
 *.json
 *.txt
 # If you want to keep specific files, use ! to negate:
