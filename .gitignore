@@ -45,8 +45,17 @@ htmlcov/
 # Scraped data files (customize as needed)
 *.csv
 *.json
+*.txt
 # If you want to keep specific files, use ! to negate:
 # !example_config.json
+!requirements.txt
+
+# Generated output files
+outputs/
+player_index_checkpoint.json
+player_urls.json
+unmatched_players.txt
+player_url_summary.txt
 
 # Jupyter Notebook
 .ipynb_checkpoints
