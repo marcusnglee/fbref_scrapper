@@ -43,7 +43,6 @@ htmlcov/
 .nox/
 
 # Scraped data files (customize as needed)
-*.json
 *.txt
 # If you want to keep specific files, use ! to negate:
 # !example_config.json
